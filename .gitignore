@@ -1,0 +1,12 @@
+# Binaires et fichiers de compilation
+*.exe
+*.o
+*.out
+conjugaison
+
+# Resultats generes par le programme
+resultats.txt
+
+# Editeur
+.vscode/
+*.swp

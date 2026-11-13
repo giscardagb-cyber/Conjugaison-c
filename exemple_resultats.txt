@@ -1,0 +1,198 @@
+parler
+Ce verbe est du premier groupe.
+
+ PRESENT 
+Je parle
+Tu parles
+Il/Elle parle
+Nous parlons
+Vous parlez
+Ils/Elles parlent
+
+ PASSE SIMPLE 
+Je parlai
+Tu parlas
+Il/Elle parla
+Nous parlames
+Vous parlates
+Ils/Elles parlerent
+
+ IMPARFAIT 
+Je parlais
+Tu parlais
+Il/Elle parlait
+Nous parlions
+Vous parliez
+Ils/Elles parlaient
+
+ FUTUR SIMPLE 
+Je parlerai
+Tu parleras
+Il/Elle parlera
+Nous parlerons
+Vous parlerez
+Ils/Elles parleront
+
+ PASSE COMPOSE 
+J'ai parlé
+Tu as parlé
+Il/Elle a parlé
+Nous avons parlé
+Vous avez parlé
+Ils/Elles ont parlé
+
+ PASSE ANTERIEUR
+J'eus parlé
+Tu eus parlé
+Il/Elle eut parlé
+Nous eumes parlé
+Vous eutes parlé
+Ils/Elles eurent parlé
+
+ PLUS-QUE-PARFAIT 
+J'avais parlé
+Tu avais parlé
+Il/Elle avait parlé
+Nous avions parlé
+Vous aviez parlé
+Ils/Elles avaient parlé
+
+ FUTUR ANTERIEUR 
+J'aurai parlé
+Tu auras parlé
+Il/Elle aura parlé
+Nous aurons parlé
+Vous aurez parlé
+Ils/Elles auront parlé
+manger
+Ce verbe est du premier groupe.
+
+ PRESENT 
+Je mange
+Tu manges
+Il/Elle mange
+Nous mangeons
+Vous mangez
+Ils/Elles mangent
+
+ PASSE SIMPLE 
+Je mangeai
+Tu mangeas
+Il/Elle mangea
+Nous mangeames
+Vous mangeates
+Ils/Elles mangerent
+
+ IMPARFAIT 
+Je mangeais
+Tu mangeais
+Il/Elle mangeait
+Nous mangeions
+Vous mangiez
+Ils/Elles mangeaient
+
+ FUTUR SIMPLE 
+Je mangerai
+Tu mangeras
+Il/Elle mangera
+Nous mangerons
+Vous mangerez
+Ils/Elles mangeront
+
+ PASSE COMPOSE 
+J'ai mangé
+Tu as mangé
+Il/Elle a mangé
+Nous avons mangé
+Vous avez mangé
+Ils/Elles ont mangé
+
+ PASSE ANTERIEUR
+J'eus mangé
+Tu eus mangé
+Il/Elle eut mangé
+Nous eumes mangé
+Vous eutes mangé
+Ils/Elles eurent mangé
+
+ PLUS-QUE-PARFAIT 
+J'avais mangé
+Tu avais mangé
+Il/Elle avait mangé
+Nous avions mangé
+Vous aviez mangé
+Ils/Elles avaient mangé
+
+ FUTUR ANTERIEUR 
+J'aurai mangé
+Tu auras mangé
+Il/Elle aura mangé
+Nous aurons mangé
+Vous aurez mangé
+Ils/Elles auront mangé
+finir
+Ce verbe est du second groupe.
+
+ PRESENT 
+Je finis
+Tu finis
+Il/Elle finit
+Nous finissons
+Vous finissez
+Ils/Elles finissent
+
+ PASSE SIMPLE 
+Je finis
+Tu finis
+Il/Elle finit
+Nous finimes
+Vous finites
+Ils/Elles finirent
+
+ IMPARFAIT 
+Je finissais
+Tu finissais
+Il/Elle finissait
+Nous finissions
+Vous finissiez
+Ils/Elles finissaient
+
+ FUTUR SIMPLE 
+Je finirai
+Tu finiras
+Il/Elle finira
+Nous finirons
+Vous finirez
+Ils/Elles finiront
+
+ PASSE COMPOSE 
+J'ai fini
+Tu as fini
+Il/Elle a fini
+Nous avons fini
+Vous avez fini
+Ils/Elles ont fini
+
+ PASSE ANTERIEUR
+J'eus fini
+Tu eus fini
+Il/Elle eut fini
+Nous eumes fini
+Vous eutes fini
+Ils/Elles eurent fini
+
+ PLUS-QUE-PARFAIT 
+J'avais fini
+Tu avais fini
+Il/Elle avait fini
+Nous avions fini
+Vous aviez fini
+Ils/Elles avaient fini
+
+ FUTUR ANTERIEUR 
+J'aurai fini
+Tu auras fini
+Il/Elle aura fini
+Nous aurons fini
+Vous aurez fini
+Ils/Elles auront fini
